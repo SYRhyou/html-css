@@ -1,0 +1,13 @@
+a{
+    font-size : 30px;
+    color : rgb(53, 193, 228);
+    font-weight : 500;
+}
+
+#yellow {
+    background-color : yellow;
+}
+
+.red {
+    background-color : red;
+}
